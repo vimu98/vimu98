@@ -13,7 +13,7 @@
 
 - 🧑‍🎓 I'm a BSc (Hons) Computer Science graduate.
 
-- 👨‍💻 Portfolio available at [abcd.com](abcd.com)
+- 👨‍💻 Portfolio available at [vimu-portfolio](https://my-portfolio-eosin-three-35.vercel.app/)
 
 - 📫 How to reach me **ictthimira@gmail.com**
 
