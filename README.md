@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Thimira Vimukthi</h1>
 <h3 align="center">The thrill of solving problems keeps my tech spirit alive</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vimu98&label=Profile%20views&color=0e75b6&style=flat" alt="vimu98" /> </p>
-
-
 
 <table align="center">
 <tr border="none">
